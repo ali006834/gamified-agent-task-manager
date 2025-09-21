@@ -1,0 +1,1 @@
+{"name":"gamified-agent-task-manager","version":"1.0.0","description":"COM8090 Capstone Project","private":true,"workspaces":["apps/*","packages/*"],"scripts":{"dev":"echo Development server starting...","install:all":"npm install"},"devDependencies":{"@types/node":"^24.5.2","typescript":"^5.9.2"}}
